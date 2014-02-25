@@ -1,5 +1,5 @@
 #### My Slides
 
-Other presentations, not in this repo:
+Other presentations:
 
 - https://speakerdeck.com/speier/rest
